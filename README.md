@@ -2,6 +2,11 @@
 
 一款在手机上使用、数据保存在本地的个人记账网页应用。
 
+## 在线使用
+
+- 网页版：<https://kim-zhengen.github.io/xiaozhangben/>（手机浏览器打开后可"添加到主屏幕"）
+- 源码仓库：<https://github.com/KIM-zhengen/xiaozhangben>
+
 ## 如何打开
 
 - 方式一：直接双击 `index.html`，用浏览器打开
