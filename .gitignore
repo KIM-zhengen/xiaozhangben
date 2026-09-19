@@ -1,0 +1,34 @@
+# ===== 系统 / 编辑器 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*.tmp
+
+# ===== Android 构建产物（体积大、可重新生成）=====
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+android-app/app/release/
+android-app/.idea/
+android-app/*.iml
+.gradle-home/
+build/
+*.apk
+*.aab
+
+# ===== 签名与本地配置（切勿公开）=====
+*.jks
+*.keystore
+keystore.properties
+local.properties
+android-app/local.properties
+
+# ===== 按需公开的目录（当前不上传）=====
+docs/
+devlog/
+backups/
+
+# ===== 其他 =====
+*.log
+.env
